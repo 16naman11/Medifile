@@ -1,6 +1,5 @@
 # Medifile
 team BioSphere
-
 MediFile is an innovative project designed to simplify the management of medical records and hospital bills. With MediFile, patients and their families can easily store and access all their medical documents digitally, ensuring they never have to worry about losing important physical copies. Whether it's for future checkups or claiming insurance, MediFile provides a seamless solution for keeping track of your medical history.
 
 Features
